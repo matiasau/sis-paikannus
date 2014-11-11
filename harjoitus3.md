@@ -9,3 +9,5 @@
  Käyttäjäryhmät: opiskelijat, opettajat, muu henkilökunta, vieraat
  
  **Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. **Kuvaile em. käyttötapauksiin liittyen mitä käyttäjälle näytetään sovelluksen ruudulla, lisää ja tallenna
+-näyttää, montako henkilöä ruokalassa on, moniko on jonossa, keskimääräinen jonotusaika
+-näytä ruokalaan viimeisen 15 minuutin aikana tulleet kaverit
